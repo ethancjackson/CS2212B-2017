@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to CS2212B-2017
 
-You can use the [editor on GitHub](https://github.com/ethamajin/CS2212B-2017/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is the main GitHub site for the course. Though the website is public, the repository is private and you will need to send me your GitHub username to be added. This should be done in the form of an [OWL](owl.uwo.ca) assignment submission. For your team projects, GitHub will be your primary tool for code management and collaboration. OWL will be used to host private course components such as grades, peer evaluations, quizzes, discussion, etc. It is your responsibility to stay up to date with all information posted here and on OWL.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Office Hours
+MC 27C
+Friday 12:30-2:30
 
-### Markdown
+### Course Outline
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Initial Survey
+Please complete this [Initial Survey](https://goo.gl/forms/dd7eaDsBgfFKHCpS2) to help us decide on group formation. Please understand that regardless of the survey results, all decisions about team formation will ultimately be made by the instructor. Please do not complete the survey more than once.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ethamajin/CS2212B-2017/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
