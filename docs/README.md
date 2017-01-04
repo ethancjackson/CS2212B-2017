@@ -8,7 +8,7 @@ MC 27C
 Friday 12:30-2:30
 
 ### Course Outline
-You can find the course outline [here](/site/resources/2212B-2017-CourseOutline.pdf).
+You can find the course outline [here](2212B-2017-CourseOutline.pdf).
 
 ---
 
