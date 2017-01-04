@@ -20,7 +20,7 @@ Please complete this [Initial Survey](https://goo.gl/forms/dd7eaDsBgfFKHCpS2) to
 
 Create a student GitHub account. This should be done in the form of an [OWL](owl.uwo.ca) assignment submission, and it counts for your first Quiz. See OWL for further instructions.
 
-### Tutorial 1 - Getting started with git and GitHub - *Coming Soon*
+### Tutorial 1 - Getting started with git and GitHub - *Coming Soon* 
 
 
 
