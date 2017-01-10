@@ -18,10 +18,11 @@ Zhao - zlin45@uwo.ca
 You can find the course outline [here](2212B-2017-CourseOutline.pdf).
 
 ### Links
-Tutorials  
-Team Meetings  
-Team Project  
-Lecture Material  
+[Tutorials](TUTORIALS.md)  
+[Teams](TEAMS.md)  
+[Team Meetings](MEETINGS.md)  
+[Team Project](PROJECT.md)  
+[Lecture Material](LECTURES.md)  
 
 ---
 
