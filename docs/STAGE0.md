@@ -1,8 +1,4 @@
-## Team Project
-
-An overview of general information about the team project. 
-
-### Stage 0
+## Stage 0
 
 By Midnight on January 18th, you must organize, meet as a team, and discuss your choice of project. 
 You will submit a high-level project proposal of at most one page.
