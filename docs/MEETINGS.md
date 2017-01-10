@@ -3,7 +3,7 @@
 
 You will schedule two types of weekly meetings:  
 
-* A general meeting so all group members can attend if possible.
+* A general meeting so all group members can attend if possible. 
   * Approximately 1 hour
   * Review what has been done since last week
   * Make collective decisions about your project
