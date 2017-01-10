@@ -31,4 +31,6 @@ If you propose an advanced feature, you must ensure that none of your primary fe
 > on the implementation of this feature, and its development will only be pursued if our TA is satisfied with our progress.
 
 Note that the above is just an example. This would be a *very* advanced feature, and nothing this advanced is expected from you.
-With that in mind, though, you are encouraged to be creative. Even if you do not end up pursuing your advanced feature, 
+With that in mind, though, you are encouraged to be creative and ambitious. Even if you don't implement your advanced feature, you should keep it in your proposal. Just make sure you support its inclusion with a remark about its feasability.
+
+Like many things in this course, your Stage 0 proposal is open-ended. This Stage is not for marks, but is required to be able to proceed to Stage 1.
