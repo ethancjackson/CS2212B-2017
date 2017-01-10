@@ -17,6 +17,12 @@ Zhao - zlin45@uwo.ca
 ### Course Outline
 You can find the course outline [here](2212B-2017-CourseOutline.pdf).
 
+### Links
+Tutorials  
+Team Meetings
+Team Project
+Lecture Material
+
 ---
 
 ## News
