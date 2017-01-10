@@ -1,11 +1,11 @@
 ## Stage 0
 
-By Midnight on January 18th, you must organize, meet as a team, and discuss your choice of project. 
-You will submit a high-level project proposal of at most one page.
+By Midnight on January 18th, you must organize, meet as a team, and decide on your choice of project. 
+You will then submit a high-level project proposal of at most one page.
 
 Your project proposal should begin with a short description of your intended project.
 Describe what the main functionality of your application will be, and state whether it will be a desktop or web-based application
-Remember, web-based applications are highly encouraged, but very well-implemented desktop applications will still be eligible for full marks.
+Remember, web-based applications are highly encouraged and preferred, but desktop applications will still be accepted.
 
 Describe the primary features your application will have, and how you plan to implement them. For example
 
@@ -13,7 +13,7 @@ Describe the primary features your application will have, and how you plan to im
 > of free historical and real-time data from Yahoo Finance and QuantQuote APIs. Users will be able to view custom graphs and charts
 > showing the relationship between multiple stock prices over time. Charts will be generated using the free Google Charts API.
 
-Notice how the feasibility of the proposed feature is supported by cititing APIs. At this phase you don't need to specifically 
+Notice how the feasibility of the proposed feature is supported by citing APIs. At this phase you don't need to specifically 
 cite any APIs, but you should show us that you have at least considered the feasibility of your proposed features and have done
 some basic research on how it might be implemented.
 
