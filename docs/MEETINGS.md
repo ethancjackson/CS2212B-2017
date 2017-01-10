@@ -8,6 +8,7 @@ You will schedule two types of weekly meetings:
     * Make collective decisions about your project
     * Delegate new work
     * Meeting minutes must be taken, made available to TA.  
+    
 * A meeting of 3 or 4 members of your team and your team’s TA 
     * TA allocated for 30 minutes per week, per team
     * The general and TA meetings may coincide/overlap (recommended)
