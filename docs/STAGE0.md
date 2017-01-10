@@ -1,5 +1,7 @@
 ## Stage 0
 
+[Home](README.md)
+
 By Midnight on January 18th, you must organize, meet as a team, and decide on your choice of project. 
 You will then submit a high-level project proposal of at most one page.
 
