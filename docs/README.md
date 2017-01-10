@@ -4,7 +4,7 @@
 This is the main GitHub site for the course. Though the website is public, the repository is private and you will need to send me your GitHub username to be added. See Quiz 1 below. For your team projects, GitHub will be your primary tool for code management and collaboration. OWL will be used to host private course components such as grades, peer evaluations, quizzes, discussion, etc. It is your responsibility to stay up to date with all information posted here and on OWL.
 
 ### Office Hours
-Ethan  
+Ethan - ejacks42@uwo.ca  
 MC 27C  
 Friday 12:30-2:30  
 
