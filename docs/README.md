@@ -10,7 +10,7 @@ Friday 12:30-2:30
 
 ### Teaching Assistants
 Jennie - jknull@uwo.ca  
-Nikita - nsokolo@uwo.ca  
+Nik - nsokolo@uwo.ca  
 Stephen - slu93@uwo.ca   
 Zhao - zlin45@uwo.ca   
 
