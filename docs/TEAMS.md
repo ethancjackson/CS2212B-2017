@@ -110,6 +110,7 @@ Hean, Khasir
 Katoch, Andrew  
 Kerr, Mitchell  
 Le, Daniel  
+Nanda, Urshita  
 Popovic, Emily Anne  
 Whitfield, Danielle Nicole  
 Xu, Jian Ping  
