@@ -31,4 +31,6 @@ If you propose an advanced feature, you must ensure that none of your primary fe
 Note that the above is just an example. This would be a *very* advanced feature, and nothing this advanced is expected from you.
 With that in mind, though, you are encouraged to be creative and ambitious. Even if you don't implement your advanced feature, you should keep it in your proposal. Just make sure you support its inclusion with a remark about its feasability.
 
-Like many things in this course, your Stage 0 proposal is open-ended. This Stage is not for marks, but is required to be able to proceed to Stage 1.
+If you choose not to propose your own project, submit a document indicating this along with a few high level topics your group is interested in. For example, you may indicate that you are interested in health information systems, social networks, financial markets, astronomy, or whatever else, and we will consider them when assigning your project. We are not promising, however, that your assigned project will include any of your listed interests. Once you receive your project assignment from the TA, your project assignment will be *final*.
+
+Like many things in this course, your Stage 0 proposal is open-ended. This Stage is not for marks, but is required to be able to proceed to Stage 1. 
