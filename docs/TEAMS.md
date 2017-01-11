@@ -7,7 +7,8 @@ Links to team GitHub Pages will be posted here.
 
 ### Team Members
 
-*If you are registered in the course and have not been placed on a team, please contact Ethan right away.*  
+*If you are registered in the course and have not been placed on a team, please contact Ethan right away. You 
+can find your classmates' email addresses on OWL.*  
   
 **Team 1**  
 Abado, Mathew  
