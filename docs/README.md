@@ -23,6 +23,7 @@ You can find the course outline [here](2212B-2017-CourseOutline.pdf).
 [Team Meetings](MEETINGS.md)  
 [Team Project](PROJECT.md)  
 [Lecture Material](LECTURE.md)  
+[Resources](RESOURCES.md)
 
 ---
 
