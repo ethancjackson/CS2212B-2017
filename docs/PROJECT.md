@@ -6,6 +6,6 @@ Team project main page. Stage descriptions and more information about the projec
 
 ---
 
-[Past Projects](PASTPROJECTS.md) - Resources
+[Past Projects](PASTPROJECTS.md) - For your reference.
 
 [Stage 0](STAGE0.md) - Due by midnight January 18th. Email team's submission to TA and Ethan.
