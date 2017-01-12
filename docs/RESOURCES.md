@@ -11,7 +11,8 @@ In this section I will post links about front-end / UI tools that you might use 
 
 So, if you've read and reviewed the above and feel **completely overwhelmed**, don't worry. We will be discussing much of the above at a more conceptual level in class, and you are not *required* to use any of it to implement your projects. The core programming language of the course is still Java, and you can implement your project stricly in Java, using [Swing](https://docs.oracle.com/javase/tutorial/uiswing/) or [JavaFX](http://docs.oracle.com/javafx/2/get_started/jfxpub-get_started.htm) for user interfaces.  
 
-**To be clear:** a very well implemented UI in Swing or JavaFX can still earn **full marks** for the project, but when evaluating projects that use Grails ***effectively***, we will take into consideration the extra work required to learn the more complicated framework. 
+**To be clear:**  
+a very well implemented UI in Swing or JavaFX can still earn **full marks** for the project, but when evaluating projects that use Grails ***effectively***, we will take into consideration the extra work required to learn the more complicated framework. 
 
 
 
