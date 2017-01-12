@@ -136,6 +136,7 @@ Khan, Mohammed
 Marchand, Sean Robert  
 McCann, Andrew Christopher  
 Sajnani, Samar Gope  
+Shi, Victor Zhuoyue  
 TA: Stephen  
   
 **Team 12**  
