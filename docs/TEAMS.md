@@ -182,7 +182,8 @@ Morris, Cameron Joseph
 Simoes, Robert  
 Tang-Tran, Jimmy Kien  
 Tumanov, Alexander  
-Yan, Jue Cong  
+Yan, Jue Cong
+Tong, Chun  
 TA: Stephen  
   
 **Team 16**  
