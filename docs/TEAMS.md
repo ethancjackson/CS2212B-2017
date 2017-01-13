@@ -170,7 +170,7 @@ Reid, Bryce John
 Salvatore, Paul  
 Schindler, Jake  
 Sukumar, Adithya  
-Vieira, Martin
+Vieira, Martin  
 Koh, Justin  
 TA: Stephen  
   
@@ -182,7 +182,7 @@ Morris, Cameron Joseph
 Simoes, Robert  
 Tang-Tran, Jimmy Kien  
 Tumanov, Alexander  
-Yan, Jue Cong
+Yan, Jue Cong  
 Tong, Chun  
 TA: Stephen  
   
