@@ -170,7 +170,8 @@ Reid, Bryce John
 Salvatore, Paul  
 Schindler, Jake  
 Sukumar, Adithya  
-Vieira, Martin  
+Vieira, Martin
+Koh, Justin  
 TA: Stephen  
   
 **Team 15**  
