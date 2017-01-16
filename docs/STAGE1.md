@@ -6,8 +6,8 @@
 
 In this Stage, your team will do the first steps of the high level design of your software for the team project.  Most of the work you do for Stage 1 will depend on your returned project proposal from Stage 0. For your core design (including UML, UI mockups, etc.) you will incorporate **required features** first. You still have an opportunity to consider additional features, but these do not need to appear in your initial design for this Stage. See below for details.
 
-Your team will create several pages for your website. Websited should be hosted using GitHub Pages from your 
-team's main GitHub repository. You will also create documents for User Stories and Tasks and submit them by e-mail to your TA and Ethan.
+Your team will create several pages for your website. Websites should be hosted using GitHub Pages from your 
+team's main GitHub repository. Submit your UML diagram by e-mail. Make sure your GitHub is updated with your User Stories (using Issues) before the deadline. If you are using a different project management tool, make sure your TA has access.
 
 ## Required Web Pages  
 
