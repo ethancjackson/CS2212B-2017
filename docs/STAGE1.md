@@ -65,6 +65,7 @@ Your diagram must have sensible classes, attributes, methods, associations, and 
 For now, it is most important for us to see that you are adhering to a high-level design pattern, MVC in particular. If you are using Grails, show us how it is helping you adhere to the design pattern. No matter your choice of programming framework, try to follow a basic MVC-based approach.
 
 To summarize MVC:  
+
 > In MVC, we do not write code in UI classes to call the various APIs, perform computations, or access the database directly. This would result in too-heavily-coupled, redundant code. Instead, Views are implemented to give a presentation of data accessed or computed at the Model level. This enables the implementation of multiple Views for the same data.
 
 > For example, the Model may contain classes that retrieve stock information such as names, ratings, prices, etc., and aggregate them into a single object. Multiple views may be implemented to display this information in different ways, or in different places.
