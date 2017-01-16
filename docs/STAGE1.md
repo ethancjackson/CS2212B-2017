@@ -77,6 +77,13 @@ To generate your diagrams, you can find an abundance of software online to help 
 
 ## User Stories and Tasks
 
-Your team must then create all user stories that you think will be needed for the project including additional components (including proposed components).
+Your team must then create all user stories that you think will be needed for the project including additional components (including proposed components). If you are using GitHub for project management, you can use a combination of Issues (with Milestones) and Projects to list user stories and assign them to a team member. Details about these can always be revised later - but it's important to get a sense of how GitHub's (basic) project management features work.  
 
-Each 
+Each user story should include:  
+
+* The story itself  
+* Any acceptance criteria  
+* Assigned team member(s)  
+* Associated Milestone with Due Date (if applicable)  
+
+Find an example of a (very) simple user story [here](/CS2212B-2017/resources/Story.png). User stories should be simple and focus on the user's interaction with the software. They are meant to be high level rather than technical. The user doesn't care what database service you're using, they only care whether they can access the feature (reliably).
