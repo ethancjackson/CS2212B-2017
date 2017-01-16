@@ -47,7 +47,8 @@ No matter the format, ensure that your UI Design Page portrays the intended inte
 
 ### Project Plan Page  
 
-When your project proposal is returned, we may include under-specified features that we would like to see added. These will be under-specified in order to challenge your creativity. Use this page to propose any additional features your team would like to add to the project. Either in response to the returned proposal, or for something completely new, you must include:    
+When your project proposal is returned, we may include under-specified features that we would like to see added. These will be under-specified in order to challenge your creativity. Use this page to propose any additional features your team would like to add to the project. Either in response to the returned proposal, or for something completely new, you must include:  
+
 * A title for the new feature or component  
 * A brief description  
 * A detailed and itemized feasibility statement and implementation plan  
