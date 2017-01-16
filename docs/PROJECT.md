@@ -8,4 +8,6 @@ Team project main page. Stage descriptions and more information about the projec
 
 [Past Projects](PASTPROJECTS.md) - For your reference.
 
-[Stage 0](STAGE0.md) - Due by midnight January 18th. Email team's submission to TA and Ethan.
+[Stage 0](STAGE0.md) - Due by Midnight on Wednesday January 18th. Email team's submission to TA and Ethan.  
+
+[Stage 1](STAGE1.md) - Due by Midnight on Friday February 10th. See page for submission details.
