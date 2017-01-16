@@ -72,4 +72,4 @@ To summarize MVC:
 
 Again, at this Stage of your project you do not need to model classes for your UI. You should, however, model classes that will *respond* to your UI, as well as the classes that will perform computations, call APIs, and interact with your database.
 
-To generate your diagrams, you can find an abundance of software online to help such as [UML Designer for Eclipse}(https://marketplace.eclipse.org/content/uml-designer). You can use any software you like as long as the diagram is clean and easy to follow. [Here is an example] of an acceptable-looking diagram from 2 years ago.
+To generate your diagrams, you can find an abundance of software online to help such as [UML Designer for Eclipse](https://marketplace.eclipse.org/content/uml-designer). You can use any software you like as long as the diagram is clean and easy to follow. [Here is an example](/CS2212B-2017/resources/UML.png) of an acceptable-looking diagram from 2 years ago.
