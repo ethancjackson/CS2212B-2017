@@ -15,8 +15,8 @@ Stephen - slu93@uwo.ca
 Zhao - zlin45@uwo.ca   
 
 ### Course Outline and Plan
-[Course Outline](2212B-2017-CourseOutline.pdf).
-[Course Plan](/CS2212B-2017/resources/2212B-2017 Plan.pdf)
+[Course Outline](2212B-2017-CourseOutline.pdf)  
+[Course Plan](/CS2212B-2017/resources/2212B-2017 Plan.pdf)  
 
 
 ### Links
