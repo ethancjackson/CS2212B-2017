@@ -3,6 +3,10 @@
 
 Relevant web resources will be collected and discussed here throughout the semester.
 
+[LayoutIt!](http://www.layoutit.com/)  
+For teams looking for an easy-to-use Javascript interface builder:  
+> Create your frontend code simple and quickly with Bootstrap using our Drag & Drop Interface Builder.
+
 ---
 
 ### Front-end / UI  
