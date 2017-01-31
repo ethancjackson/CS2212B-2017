@@ -3,11 +3,6 @@
 
 Relevant web resources will be collected and discussed here throughout the semester.
 
-[LayoutIt!](http://www.layoutit.com/)  
-For teams looking for an easy-to-use Javascript interface builder:
-
-> Create your frontend code simple and quickly with Bootstrap using our Drag & Drop Interface Builder.  
-
 ---
 
 ### Front-end / UI  
@@ -19,13 +14,17 @@ So, if you've read and reviewed the above and feel **completely overwhelmed**, d
 **To be clear:**  
 A very well implemented UI in Swing or JavaFX can still earn **full marks** for the project, but when evaluating projects that use Grails ***effectively***, we will take into consideration the extra work required to learn the more complicated framework. 
 
-
-
 [Grails gets cozy with AngularJS for better JavaScript](http://www.infoworld.com/article/2988234/javascript/grails-gets-cozy-with-angularjs-for-better-javascript.html)  
 Lots of tools mentioned that you might use together with [Grails](http://www.grails.org/) in your projects, especially for single-page web applications.
 
 [Sorry, JavaFX -- Java 8 won't help you matter](http://www.infoworld.com/article/2610802/java/sorry--javafx----java-8-won-t-help-you-matter.html)  
 JavaFX is a completely acceptable framework you can use to develop your project front end / user interface. You might find it much easier to get started with than Grails/Groovy/JavaScript. Just be aware though, that JavaFX is not exactly popular in industry. JavaFX skills will be transferable to other frameworks, though, just with some effort.
+
+[LayoutIt!](http://www.layoutit.com/)  
+For teams looking for an easy-to-use Javascript interface builder.
+
+[What I wish I knew about Grails before my first Grails Project](https://objectpartners.com/2013/10/15/what-i-wish-i-knew-about-grails-before-my-first-grails-project/)  
+Blog post that makes some useful suggestions about how to approach Grails as a beginner.
 
 ### Git / GitHub
 
