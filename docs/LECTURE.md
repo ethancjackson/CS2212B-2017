@@ -12,3 +12,5 @@ Topic 3 - Software Design + Linux/VM/Grails Installation [PPTX](/CS2212B-2017/sl
 Topic 4 - Requirements [PPTX](/CS2212B-2017/slides/Topic 4 - Requirements.pptx), [PDF](/CS2212B-2017/slides/Topic 4 - Requirements PDF.pdf)  
 
 Topic 5 - Software Design (Part 2) [PPTX](/CS2212B-2017/slides/Topic 5 - Software Design (Part 2).pptx), [PDF](/CS2212B-2017/slides/Topic 5 - Software Design (Part 2) - PDF.pdf)  
+
+Topic 6 - UML [PPTX](/CS2212B-2017/slides/Topic 6 - UML.pptx), [PDF](/CS2212B-2017/slides/Topic 6 - UML.pdf)  
