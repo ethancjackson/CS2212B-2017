@@ -14,6 +14,8 @@ Team project main page. Stage descriptions and more information about the projec
 
 [Stage 1](STAGE1.md) - Due by Midnight on Friday February 10th. See page for submission details.
 
+[Stage 2](STAGE2.md) - Due by Midnight on Friday March 3rd. See page for submission details.
+
 ---  
 
 [Stage 1 Marking Scheme PDF](/CS2212B-2017/resources/Stage 1 Feedback.pdf)
