@@ -30,7 +30,7 @@ Requirements:
 
 ## Prototype
 
-Your first prototype will be due with this Stage. You will implement ***one third of your project's features, as decided by your TA***.
+Your first prototype will be due with this Stage. You will implement ***one third of your project's features, as decided by your TA***. You may appeal the inclusion/exclusion of features to your TA, as long as the request is reasonable.
 Every project will be required to have a working user interface for the implemented features, at minimum. Your GitHub Master branch
 will contain your submission for Stage 2. No other code will be considered - no exceptions.
 
