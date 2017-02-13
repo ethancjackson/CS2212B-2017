@@ -20,6 +20,7 @@ At the deadline, your website must include
 You must use GitHub effectively to manage your code.  
 
 Requirements:    
+
 * Master branch is only used for evaluation (i.e. all development must be done using separate branches)  
 * You must implement a branch organization system of your choice, adhere to it, and document it for submission, e.g.  
   * Each team member uses their own development branch with feature-based sub-branches, or  
@@ -36,12 +37,14 @@ Your first prototype will be due with this Stage. You will implement ***one thir
 Every project will be required to have a working user interface for the implemented features, at minimum. Your GitHub Master branch will contain your submission for Stage 2. No other code will be considered - no exceptions.
 
 You must:
+
 * Specify your own acceptance critera for each feature (TAs will also assign additional criteria)  
 * Close GitHub issues pertaining to any implemented features / user stories  
 * Ensure that your program does not crash if any API is unavailable  
 * Ensure that your code is well-commented using JavaDoc-style comments. Examples will be provided.  
 
 Notes:  
+
 * You may use any language/environment for user interfaces, as long as it is compatible with a Java-based back-end. The following are recommended.  
   * JavaScript/React + HTML/CSS  
   * Java/Swing or JavaFX  
