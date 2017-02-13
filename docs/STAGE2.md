@@ -21,14 +21,14 @@ You must use GitHub effectively to manage your code.
 
 Requirements:    
 
-* Master branch is only used for evaluation (i.e. all development must be done using separate branches)  
-* You must implement a branch organization system of your choice, adhere to it, and document it for submission, e.g.  
+- Master branch is only used for evaluation (i.e. all development must be done using separate branches)  
+- You must implement a branch organization system of your choice, adhere to it, and document it for submission, e.g.  
   * Each team member uses their own development branch with feature-based sub-branches, or  
   * From one main development branch, use one branch per feature, always assigning them to at least one team member.  
-* Your Master branch, at 11:59:59pm on Friday March 3rd, will be cloned for evaluation. Absolutely no exceptions to this requirement.  
-* Update README.md in code repository to include instructions on how to clone and build your prototype. If there are any dependencies, you should list them here.  
+- Your Master branch, at 11:59:59pm on Friday March 3rd, will be cloned for evaluation. Absolutely no exceptions to this requirement.  
+- Update README.md in code repository to include instructions on how to clone and build your prototype. If there are any dependencies, you should list them here.  
 (i.e. assume you are walking users through a standard installation process - you may assume only that users have the JDK installed)  
-* Make sure that Issues are closed as features are completed.  
+- Make sure that Issues are closed as features are completed.  
 
 
 ## Prototype
@@ -38,17 +38,17 @@ Every project will be required to have a working user interface for the implemen
 
 You must:
 
-* Specify your own acceptance critera for each feature (TAs will also assign additional criteria)  
-* Close GitHub issues pertaining to any implemented features / user stories  
-* Ensure that your program does not crash if any API is unavailable  
-* Ensure that your code is well-commented using JavaDoc-style comments. Examples will be provided.  
+- Specify your own acceptance critera for each feature (TAs will also assign additional criteria)  
+- Close GitHub issues pertaining to any implemented features / user stories  
+- Ensure that your program does not crash if any API is unavailable  
+- Ensure that your code is well-commented using JavaDoc-style comments. Examples will be provided.  
 
 Notes:  
 
-* You may use any language/environment for user interfaces, as long as it is compatible with a Java-based back-end. The following are recommended.  
+- You may use any language/environment for user interfaces, as long as it is compatible with a Java-based back-end. The following are recommended.  
   * JavaScript/React + HTML/CSS  
   * Java/Swing or JavaFX  
-* You may use any software to assist with UI design and coding  
-* For web-based applications, Grails is highly recommended.    
-* Web-based applications should use REST to communicate with user interfaces.  
-* Marks will be deducted for any crashes during evaluation.  
+- You may use any software to assist with UI design and coding  
+- For web-based applications, Grails is highly recommended.    
+- Web-based applications should use REST to communicate with user interfaces.  
+- Marks will be deducted for any crashes during evaluation.  
