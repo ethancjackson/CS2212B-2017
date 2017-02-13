@@ -3,8 +3,9 @@
 [Home](README.md)  
 
 ***Due Friday February March 3rd at Midnight***  
+Last updated Feb 13th at 11:00am.
 
-This stage includes your first code submission.  
+This stage includes your first code submission. Your returned Stage 1 is the basis for Stage 2 - you will receive further instructions at your TA meetings this week.
 
 ## Website Updates  
 
@@ -31,8 +32,7 @@ Requirements:
 ## Prototype
 
 Your first prototype will be due with this Stage. You will implement ***one third of your project's features, as decided by your TA***. You may appeal the inclusion/exclusion of features to your TA, as long as the request is reasonable.
-Every project will be required to have a working user interface for the implemented features, at minimum. Your GitHub Master branch
-will contain your submission for Stage 2. No other code will be considered - no exceptions.
+Every project will be required to have a working user interface for the implemented features, at minimum. Your GitHub Master branch will contain your submission for Stage 2. No other code will be considered - no exceptions.
 
 You must:
 * Specify your own acceptance critera for each feature (TAs will also assign additional criteria)
@@ -41,8 +41,10 @@ You must:
 * Ensure that your code is well-commented using JavaDoc-style comments. Examples will be provided.
 
 Notes:  
-* You may use any language/environment for user interfaces, as long as it is compatible with a Java-based back-end. The following are recommended.
-  * JavaScript/React + HTML/CSS
-  * Java/Swing or JavaFX
-* For web-based applications, Grails is highly recommended. 
-* Web-based applications should use REST to communicate with user interfaces.
+* You may use any language/environment for user interfaces, as long as it is compatible with a Java-based back-end. The following are recommended.  
+  * JavaScript/React + HTML/CSS  
+  * Java/Swing or JavaFX  
+* You may use any software to assist with UI design and coding
+* For web-based applications, Grails is highly recommended.   
+* Web-based applications should use REST to communicate with user interfaces.  
+* Marks will be deducted for any crashes during evaluation.  
