@@ -27,6 +27,7 @@ Requirements:
 * Your Master branch, at 11:59:59pm on Friday March 3rd, will be cloned for evaluation. Absolutely no exceptions to this requirement.
 * Update README.md in code repository to include instructions on how to clone and build your prototype. If there are any dependencies, you should list them here.
 (i.e. assume you are walking users through a standard installation process - you may assume only that users have the JDK installed)
+* Make sure that Issues are closed as features are completed.
 
 
 ## Prototype
