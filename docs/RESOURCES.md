@@ -1,7 +1,7 @@
 ## Resources  
 [Home](README.md)
 
-Relevant web resources will be collected and discussed here throughout the semester.
+A collection of helpful resources for you project.
 
 ---
 
@@ -11,6 +11,7 @@ Relevant web resources will be collected and discussed here throughout the semes
 [Getting Started](http://docs.grails.org/latest/guide/gettingStarted.html)  
 [Basic Tutorials](http://grails.asia/grails-tutorial-for-beginners/)  
 [Domain Classes](http://docs.grails.org/3.1.1/ref/Domain%20Classes/Usage.html)
+[GORM](https://docs.grails.org/latest/guide/GORM.html)
 
 ## REST
 [REST - Wikipedia](https://en.wikipedia.org/wiki/Representational_state_transfer)
