@@ -1,7 +1,7 @@
 ## Resources  
 [Home](README.md)
 
-A collection of helpful resources for you project.
+A collection of helpful resources for your project.
 
 ---
 
