@@ -3,10 +3,10 @@
 
 Official website for CS2212B-2017. Quizzes, Peer Evaluations, and Tutorial Submissions are all on OWL. All other resources are posted here.
 
-### Office Hours
+### Instructor
 Ethan - ejacks42@uwo.ca  
-MC 27C  
-Friday 1:00pm - 3:00pm  
+Office Hours:  
+MC 27C Friday 1:00pm to 3:00pm  
 
 ### Teaching Assistants
 Jennie - jknull@uwo.ca  
