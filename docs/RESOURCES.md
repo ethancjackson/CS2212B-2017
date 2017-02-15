@@ -7,16 +7,16 @@ A collection of helpful resources for you project.
 
 ## Grails  
 [Grails](www.grails.org)  
-[Documentation](http://docs.grails.org/latest/)
+[Documentation](http://docs.grails.org/latest/)  
 [Getting Started](http://docs.grails.org/latest/guide/gettingStarted.html)  
 [Basic Tutorials](http://grails.asia/grails-tutorial-for-beginners/)  
-[Domain Classes](http://docs.grails.org/3.1.1/ref/Domain%20Classes/Usage.html)
-[GORM](https://docs.grails.org/latest/guide/GORM.html)
+[Domain Classes](http://docs.grails.org/3.1.1/ref/Domain%20Classes/Usage.html)  
+[GORM](https://docs.grails.org/latest/guide/GORM.html)  
 
 ## REST
-[REST - Wikipedia](https://en.wikipedia.org/wiki/Representational_state_transfer)
-[Java.net](https://docs.oracle.com/javase/7/docs/api/java/net/package-summary.html)
-[JavaScript Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)  
+[REST - Wikipedia](https://en.wikipedia.org/wiki/Representational_state_transfer)  
+[Java.net](https://docs.oracle.com/javase/7/docs/api/java/net/package-summary.html)  
+[JavaScript Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)    
 
 ## Front-end / UI  
 
