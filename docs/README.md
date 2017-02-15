@@ -1,7 +1,7 @@
 
 ## Welcome to CS2212B-2017
 
-Official website for CS2212B-2017. Quizzes, Peer Evaluations, and Tutorial Submissions are all on OWL. All other resources are posted here.
+Official website for CS2212B-2017 at Western University. Quizzes, Peer Evaluations, and Tutorial Submissions are all on OWL. All other resources are posted here.
 
 ### Instructor
 Ethan - ejacks42@uwo.ca  
