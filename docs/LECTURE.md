@@ -13,4 +13,6 @@ Topic 4 - Requirements [PPTX](/CS2212B-2017/slides/Topic 4 - Requirements.pptx),
 
 Topic 5 - Software Design (Part 2) [PPTX](/CS2212B-2017/slides/Topic 5 - Software Design (Part 2).pptx), [PDF](/CS2212B-2017/slides/Topic 5 - Software Design (Part 2) - PDF.pdf)  
 
-Topic 6 - UML [PPTX](/CS2212B-2017/slides/Topic 6 - UML.pptx), [PDF](/CS2212B-2017/slides/Topic 6 - UML.pdf)  
+Topic 6 - UML [PPTX](/CS2212B-2017/slides/Topic 6 - UML.pptx), [PDF](/CS2212B-2017/slides/Topic 6 - UML.pdf)   
+
+Topic Extra - REST, File Uploading [PPTX](/CS2212B-2017/slides/Frameworks Revisited.pptx), [PDF](/CS2212B-2017/slides/Frameworks Revisited.pdf)  
