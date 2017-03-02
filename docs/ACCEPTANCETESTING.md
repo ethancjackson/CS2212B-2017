@@ -29,7 +29,7 @@ If this process does not work during acceptance testing, then the maximum grade 
 
 We will test your project against the Stage 3 Spec you received from your TA. We will also be testing non-functional elements, and evaluting the user experience. This is your chance to show us how to use your software properly and explain any errors, missing data, etc. 
 
-It is your responsibility to walk us through each of the features from your Stage 3 spec you have implemented (completely or partially). Show us everything you have achieved, even if it doesn't work exactly as intended. Program functionality will be marked based on the marking scheme available on the course website.
+It is your responsibility to walk us through each of the features from your Stage 3 Spec you have implemented (completely or partially). Show us everything you have achieved, even if it doesn't work exactly as intended. Program functionality will be marked based on the marking scheme available on the course website.
 
 ### Team Representation
 
