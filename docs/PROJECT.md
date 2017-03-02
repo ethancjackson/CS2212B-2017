@@ -16,9 +16,11 @@ Team project main page. Stage descriptions and more information about the projec
 
 [Stage 2](STAGE2.md) - Due by Midnight on Friday March 3rd. See page for submission details.  
 
-[Stage 3](STAGE3.md) - Due by Midnight on Friday March 24thrd. See page for submission details.  
+[Stage 3](STAGE3.md) - Due by Midnight on Friday March 24th. See page for submission details.  
 
 [Acceptance Testing](ACCEPTANCETESTING.md) - March 27th to 31st - Schedule/Location TBA. 
+
+[Stage 4](STAGE4.md) - Due by Midnight on Friday April 3rd. See page for details. 
 
 ---  
 
