@@ -41,7 +41,7 @@ Areas of your design that you felt were weak:
 - In any large project, there are certain areas of the code that, after you finish implementing them, you really don’t want to venture back into as they may be fragile, inflexible, etc. Or you may have had trouble with them often. Tell us about one or two of these “dark corners” of your design. Discuss why you were unhappy with them, and how they could have been improved.  
 
 ### Project Retrospective
-In this section, you will speak more to the overall project, rather than the code design.  They can include interpersonal communication, task and deadline management, UI design, frameworks/technologies, meeting management, etc. Be honest and professional in your answers.
+In this section, you will answer questions about the overall project, rather than the code design.  Answers can include details about interpersonal communication, task and deadline management, UI design, frameworks/technologies, meeting management, etc. Be honest and professional in your answers.
 - What did your group do well?  
 - What could your group have done better?  
 - What did you like about the tools and frameworks you used?
