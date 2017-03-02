@@ -6,6 +6,7 @@
 Last updated March 2nd at 10:00am.
 
 This stage is your final software submission. Your GitHub repository's master branch will be cloned at midnight.  
+
 No other code will be used to evaluate your project. Only features from your Stage 3 Spec will be marked.
 
 ## Website Updates  
