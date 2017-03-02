@@ -53,6 +53,8 @@ If major, extensive cuts are made, then you can earn up to 80% or 20 marks for S
 is necessary to make project completion possible. If your team feels that your Stage 3 Spec has been unfairly cut, you can appeal the decision to your instructor or TA.
 In such cases, you will need to convince us that you will be able to make more progress on Stage 3 than was made on Stage 2.
 
+The bulk of your marks for Stage 3 will be a result of [Acceptance Testing](/CS2212-2017/docs/ACCEPTANCETESTING.md).
+
 ### Stage 3 Submission
 
 Your Stage 3 submission is your updated GitHub repository master branch at midnight on Friday March 24th. Your TA will clone your repository
