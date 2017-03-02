@@ -33,10 +33,11 @@ Describe how you made use of design patterns to help with the design and impleme
 ### Refactor Retrospective 
 
 In this section, suggest possible refactoring of your code in order to improve its design and software quality. 
-Areas of your design that you felt were strong  
+
+Areas of your design that you felt were strong:  
 - Here is your chance to tell us all about that beautiful design you came up with in a particular area(s) of the application, and why it was so amazing. Tell us about a situation where good code organization helped you solve a problem or make your code significantly easier to read, understand, and use. Note: we’re talking about object-oriented design here – not GUI design.  You must include at least 2 parts you thought worked well.  
 
-Areas of your design that you felt were weak
+Areas of your design that you felt were weak:  
 - In any large project, there are certain areas of the code that, after you finish implementing them, you really don’t want to venture back into as they may be fragile, inflexible, etc. Or you may have had trouble with them often. Tell us about one or two of these “dark corners” of your design. Discuss why you were unhappy with them, and how they could have been improved.  
 
 ### Project Retrospective
