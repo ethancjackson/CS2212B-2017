@@ -26,4 +26,6 @@ Team project main page. Stage descriptions and more information about the projec
 
 [Stage 1 Marking Scheme PDF](/CS2212B-2017/resources/Stage 1 Feedback.pdf)  
 
-[Stage 2 Marking Scheme PDF](/CS2212B-2017/resources/Stage 2 Feedback.pdf)
+[Stage 2 Marking Scheme PDF](/CS2212B-2017/resources/Stage 2 Feedback.pdf)  
+
+[Stage 3 Marking Scheme PDF](/CS2212B-2017/resources/Stage 3 Feedback.pdf)
