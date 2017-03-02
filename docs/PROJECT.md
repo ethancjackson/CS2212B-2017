@@ -20,7 +20,7 @@ Team project main page. Stage descriptions and more information about the projec
 
 [Acceptance Testing](ACCEPTANCETESTING.md) - March 27th to 31st - Schedule/Location TBA. 
 
-[Stage 4](STAGE4.md) - Due by Midnight on Friday April 3rd. See page for details. 
+[Stage 4](STAGE4.md) - Due by Midnight on Friday April 7th. See page for details. 
 
 ---  
 
