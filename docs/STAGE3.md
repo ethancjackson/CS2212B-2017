@@ -59,8 +59,7 @@ After Stage 2, your progress as a team will be used to set a maximum atteinable 
 - **Several cuts:** 90% or 15.75 marks available  
 - **Major/extensive cuts:** 80% or 14 marks available
 
-If your team feels that your Stage 3 Spec has been unfairly cut, you can appeal the decision to your instructor or TA.
-In such cases, you will need to convince us that you will be able to make more progress on Stage 3 than was made on Stage 2.
+If your team is able to implement cut features by the deadline, your maximum atteinable will be restored accordingly.
 
 The remaining 7.5 (to make a total of 25 marks for Stage 3) are reserved for evaluating your [Acceptance Testing](ACCEPTANCETESTING.md) Session and your GitHub/Website updates.
 
