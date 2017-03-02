@@ -1,11 +1,11 @@
-## Stage 2
+## Stage 4
 
 [Home](README.md)  
 
 ***Due Friday April 7th at Midnight***  
 Last updated March 2nd at noon.
 
-This stage includes your code documentation, finalizes your readme, includes a project retrospective and requires you make a video demo of your software. 
+This final stage includes your code documentation, finalizes your readme, includes a project retrospective and requires you make a video demo of your software. 
 
 Your submission will be in the form of an updated website, updated repository README.md, and a link to your YouTube video demonstration sent via e-mail to your TA - all by the due date listed above.
 
