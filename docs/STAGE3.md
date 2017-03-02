@@ -60,6 +60,9 @@ and will begin inspecting your code. Only the code cloned from your repository o
 
 
 Notes:  
-
+- If your team is using multiple repositories (e.g. for front and back ends) your TA **must have agreed** to this setup.
+- It is your responsibility to ensure the TA knows about any special instructions needed to clone your project.
+- You must make sure (i.e. test) that your cloned repository can easily be built and executed on other computers. 
+- IntelliJ configuration/settings for Gradle, Maven, JDK, etc. may be modified during testing if there are problems, but it is your responsibility to know how to do this.
 
 
