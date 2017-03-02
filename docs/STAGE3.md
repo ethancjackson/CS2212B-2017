@@ -48,13 +48,15 @@ For example, a requirement such as *user-uploadable profile pictures* could be r
 
 ### Stage 3 Marking
 
-Stage 3 marking will be complicated since you are all working on different projects. Your progress as a team will be used to set a maximum atteinable grade on Stage 3.
-If no cuts or only minor cuts are made on your Stage 3 Spec, you can earn up to 100% of the 25 marks allocated for Stage 3. If several cuts are made, you can earn up to 90% or 22.5 marks. 
-If major, extensive cuts are made, then you can earn up to 80% or 20 marks for Stage 3. These maximum atteinable marks will only be adjusted in cases where we feel that intervention
+Stage 3 marking will be complicated since you are all working on different projects. Your progress as a team will be used to set a maximum atteinable grade on the Program Evaluation component of Stage 3 (worth a total of 70% or 17.5 marks).
+If no cuts or only minor cuts are made on your Stage 3 Spec, you can earn up to 100% of the 17.5 marks allocated for Program Evaluation in Stage 3. If several cuts are made, you can earn up to 90% or 15.75 marks for Program Evaluation. 
+If major, extensive cuts are made, then you can earn up to 80% or 14 marks for Program Evaluation. These maximum atteinable marks will only be adjusted in cases where we feel that intervention
 is necessary to make project completion possible. If your team feels that your Stage 3 Spec has been unfairly cut, you can appeal the decision to your instructor or TA.
 In such cases, you will need to convince us that you will be able to make more progress on Stage 3 than was made on Stage 2.
 
-The bulk of your marks for Stage 3 will be a result of [Acceptance Testing](ACCEPTANCETESTING.md).
+The remaining 7.5 marks of the total 25 marks for Stage 3 are reserved for evaluating your Acceptance Testing Session and your GitHub/Website updates.
+
+[Acceptance Testing](ACCEPTANCETESTING.md) forms a significant portion of your marks for Stage 3.
 
 ### Stage 3 Submission
 
