@@ -48,15 +48,21 @@ For example, a requirement such as *user-uploadable profile pictures* could be r
 
 ### Stage 3 Marking
 
-Stage 3 marking will be complicated since you are all working on different projects. Your progress as a team will be used to set a maximum atteinable grade on the Program Evaluation component of Stage 3 (worth a total of 70% or 17.5 marks).
-If no cuts or only minor cuts are made on your Stage 3 Spec, you can earn up to 100% of the 17.5 marks allocated for Program Evaluation in Stage 3. If several cuts are made, you can earn up to 90% or 15.75 marks for Program Evaluation. 
-If major, extensive cuts are made, then you can earn up to 80% or 14 marks for Program Evaluation. These maximum atteinable marks will only be adjusted in cases where we feel that intervention
-is necessary to make project completion possible. If your team feels that your Stage 3 Spec has been unfairly cut, you can appeal the decision to your instructor or TA.
+
+Stage 3 marking will be complicated since you are all working on different projects. 
+
+Stage 3 is worth a total of 25 marks. Of these, 17.5 are allocated for your software and 7.5 are allocated for your [Acceptance Testing](ACCEPTANCETESTING.md) Session and your Website/GitHub updates.
+
+After Stage 2, your progress as a team will be used to set a maximum atteinable grade on the Software Evaluation component of Stage 3 as follows:  
+
+- No cuts or minor cuts: 100% or 17.5 marks available  
+- Several cuts: 90% or 15.75 marks available  
+- Major/extensive cuts: 80% or 14 marks available
+
+If your team feels that your Stage 3 Spec has been unfairly cut, you can appeal the decision to your instructor or TA.
 In such cases, you will need to convince us that you will be able to make more progress on Stage 3 than was made on Stage 2.
 
-The remaining 7.5 marks of the total 25 marks for Stage 3 are reserved for evaluating your Acceptance Testing Session and your GitHub/Website updates.
-
-[Acceptance Testing](ACCEPTANCETESTING.md) forms a significant portion of your marks for Stage 3.
+The remaining 7.5 (to make a total of 25 marks for Stage 3) are reserved for evaluating your [Acceptance Testing](ACCEPTANCETESTING.md) Session and your GitHub/Website updates.
 
 ### Stage 3 Submission
 
