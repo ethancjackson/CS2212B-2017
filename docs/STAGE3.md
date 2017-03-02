@@ -53,13 +53,13 @@ Stage 3 marking will be complicated since you are all working on different proje
 
 Stage 3 is worth a total of 25 marks. Of these, 17.5 are allocated for your software and 7.5 are allocated for your [Acceptance Testing](ACCEPTANCETESTING.md) Session and your Website/GitHub updates.
 
-After Stage 2, your progress as a team will be used to set a maximum atteinable grade on the Software Evaluation component of Stage 3 as follows:  
+After Stage 2, your progress as a team will be used to set a maximum attainable grade on the Software Evaluation component of Stage 3 as follows:  
 
 - **No cuts or minor cuts:** 100% or 17.5 marks available  
 - **Several cuts:** 90% or 15.75 marks available  
 - **Major/extensive cuts:** 80% or 14 marks available
 
-If your team is able to implement cut features by the deadline, your maximum atteinable will be restored accordingly.
+If your team is able to implement cut features by the deadline, your maximum attainable will be restored accordingly.
 
 The remaining 7.5 (to make a total of 25 marks for Stage 3) are reserved for evaluating your [Acceptance Testing](ACCEPTANCETESTING.md) Session and your GitHub/Website updates.
 
