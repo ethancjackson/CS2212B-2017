@@ -55,4 +55,6 @@ The following is a list of example discussion points.
 - Can you change the look of X ?  
 - Can you change the layout of X?  
 - I would have liked to see X implemented, how long will adding that component take, and how would you go about it?  
-- If you needed change to a different framework than Grails for your backend, how much of your project code could be reused? To what degree could you reuse a similar design in another system? 
+- If you needed change to a different framework than Grails for your backend, how much of your project code could be reused? To what degree could you reuse a similar design in another system?  
+- Are you aware of any security flaws in your application?
+- If you needed to implement a version of your application compatible with Android or iOS, what code can and cannot be reused from your current project?
