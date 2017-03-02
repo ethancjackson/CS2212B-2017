@@ -78,7 +78,7 @@ Things that will lose you marks:
 - Having all sorts of other programs open.
 - Having an obnoxious wallpaper or names visible on your desktop, or a messy desktop. Show good computer hygiene.
 
-## Updated GitHib README.md
+## Updated GitHub README.md
 
 After going through the acceptance testing process, make any changes to your repository's README.md that will help someone completely unaware of the project install and run your software. Use developer-friendly language to explain what steps would need to be followed for a new team member to install and run everything they need to work on the project.
 
