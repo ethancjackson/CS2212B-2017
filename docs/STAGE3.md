@@ -55,9 +55,9 @@ Stage 3 is worth a total of 25 marks. Of these, 17.5 are allocated for your soft
 
 After Stage 2, your progress as a team will be used to set a maximum atteinable grade on the Software Evaluation component of Stage 3 as follows:  
 
-- No cuts or minor cuts: 100% or 17.5 marks available  
-- Several cuts: 90% or 15.75 marks available  
-- Major/extensive cuts: 80% or 14 marks available
+- **No cuts or minor cuts:** 100% or 17.5 marks available  
+- **Several cuts:** 90% or 15.75 marks available  
+- **Major/extensive cuts:** 80% or 14 marks available
 
 If your team feels that your Stage 3 Spec has been unfairly cut, you can appeal the decision to your instructor or TA.
 In such cases, you will need to convince us that you will be able to make more progress on Stage 3 than was made on Stage 2.
