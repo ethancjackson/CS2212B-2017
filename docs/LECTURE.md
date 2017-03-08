@@ -16,3 +16,7 @@ Topic 5 - Software Design (Part 2) [PPTX](/CS2212B-2017/slides/Topic 5 - Softwar
 Topic 6 - UML [PPTX](/CS2212B-2017/slides/Topic 6 - UML.pptx), [PDF](/CS2212B-2017/slides/Topic 6 - UML.pdf)   
 
 Topic Extra - REST, File Uploading [PPTX](/CS2212B-2017/slides/Frameworks Revisited.pptx), [PDF](/CS2212B-2017/slides/Frameworks Revisited.pdf)  
+
+Topic 7 - Software Process (Part 1) [PPTX](/CS2212B-2017/slides/Topic 7 - Software Process (Part 1).pptx), [PDF](/CS2212B-2017/slides/Topic 7 - Software Process (Part 1).pdf)  
+
+Topic 7 - Software Process (Part 2) [PPTX](/CS2212B-2017/slides/Topic 7 - Software Process (Part 2).pptx), [PDF](/CS2212B-2017/slides/Topic 7 - Software Process (Part 2).pdf)  
