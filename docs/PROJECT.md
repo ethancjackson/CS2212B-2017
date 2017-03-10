@@ -8,6 +8,8 @@ Team project main page. Stage descriptions and more information about the projec
 
 [Past Projects](PASTPROJECTS.md) - For your reference.
 
+[Stage 3+4 Slides](/CS2212B-2017/slides/Stage3-4.pptx) - notes about Stage 3 and 4, and some Grails code for DB Persistence and Authentication.
+
 ---
 
 [Stage 0](STAGE0.md) - Due by Midnight on Wednesday January 18th. Email team's submission to TA and Ethan.  
