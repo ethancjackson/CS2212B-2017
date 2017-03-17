@@ -22,3 +22,5 @@ Topic 7 - Software Process (Part 1) [PPTX](/CS2212B-2017/slides/Topic 7 - Softwa
 Topic 7 - Software Process (Part 2) [PPTX](/CS2212B-2017/slides/Topic 7 - Software Process (Part 2).pptx), [PDF](/CS2212B-2017/slides/Topic 7 - Software Process (Part 2).pdf)  
 
 Topic 8 - Testing (Part 1) [PPTX](/CS2212B-2017/slides/Topic 8 - Testing (Part 1).pptx), [PDF](/CS2212B-2017/slides/Topic 8 - Testing (Part 1).pdf)  
+
+Topic 8 - Testing (Part 2) [PPTX](/CS2212B-2017/slides/Topic 8 - Testing (Part 2).pptx), [PDF](/CS2212B-2017/slides/Topic 8 - Testing (Part 2).pdf)  
