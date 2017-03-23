@@ -24,6 +24,7 @@ Zhao - zlin45@uwo.ca
 [Team Project](PROJECT.md)  
 [Teams](TEAMS.md)  
 [Tutorials](TUTORIALS.md)  
+[Final Exam](EXAM.md)
  
 
 
