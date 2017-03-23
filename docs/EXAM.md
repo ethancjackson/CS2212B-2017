@@ -24,4 +24,6 @@ The final exam will cover the following topics:
 - Functional Testing  
 
 Last year's exam can be found [here](/CS2212B-2017/resources/Past Exam - 2016.pdf).  
-Please note that this is for your reference only and that this year's exam covers some different topics.
+Please note that this is for your reference only and that this year's exam covers some different topics.  
+
+This year's exam is 17 pages, consists of 20 multiple choice questions and 8 multi-part problems, and contains no extra reference material.
