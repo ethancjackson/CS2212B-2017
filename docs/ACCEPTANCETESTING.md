@@ -1,6 +1,6 @@
 ## Acceptance Testing  
-**March 27th to 31st - in MC 300**
-[Acceptance Testing Schedule](/CS2212B-2017/resources/Acceptance Testing Schedule.pdf)
+**March 27th to 31st - in MC 300**  
+[Acceptance Testing Schedule](/CS2212B-2017/resources/Acceptance Testing Schedule.pdf)  
 
 [Home](README.md)  
 
