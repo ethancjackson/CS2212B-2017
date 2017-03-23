@@ -2,6 +2,9 @@
 
 [Home](README.md)  
 
+The final exam is worth 30% of your final mark and is scheduled for Saturday April 22nd at 2:00 PM in AH 201.  
+Always refer to the [Official Exam Schedule](https://studentservices.uwo.ca/secure/exams/Spring.cfm?Term=1169) to double check the date, time, and location.
+
 The final exam will cover the following topics:
 - Software Engineering Definitions  
 - Software Quality  
